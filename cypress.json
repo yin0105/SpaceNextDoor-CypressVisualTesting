@@ -1,0 +1,11 @@
+{
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 300000,
+    "includeShadowDom": true,
+    "defaultCommandTimeout": 30000,
+    "responseTimeout": 40000,
+    "video": false,
+    "viewportWidth": 1300
+
+
+}

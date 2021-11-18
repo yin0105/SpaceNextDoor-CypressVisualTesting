@@ -1,0 +1,2 @@
+percy : export PERCY_TOKEN=*
+runner : npx percy exec -- cypress run --browser chrome --spec "cypress/integration/core/visual_tests/*.ts"
